@@ -1,0 +1,63 @@
+{
+  "date": "2026-10-18",
+  "kind": "controlled synthetic experiment, not real Gemini downloads",
+  "engine_sha256": "d956d58d3f5b195990c17549893eaf773bac4de7dba5ed4d61495f0c0f919e78",
+  "encoder": "Pillow 12.3.0; PNG compression level 6; JPEG quality 85, subsampling 2; not browser encoding",
+  "seed": 20261018,
+  "position": {
+    "x": 944,
+    "y": 688,
+    "size": 48
+  },
+  "strength": 1,
+  "results": [
+    {
+      "scene": "flat",
+      "input_format": "PNG",
+      "input_bytes": 5167,
+      "output_png_bytes": 4611,
+      "ratio": 0.892,
+      "width": 1024,
+      "height": 768,
+      "outside_box_changed_pixels": 0,
+      "inside_box_changed_pixels": 883,
+      "input_sha256": "32cecc0f84192e5363b0fda3fecdc0d04e86693c3cfa14a1b7cbc4a379f691fe"
+    },
+    {
+      "scene": "flat",
+      "input_format": "JPEG",
+      "input_bytes": 19600,
+      "output_png_bytes": 11263,
+      "ratio": 0.575,
+      "width": 1024,
+      "height": 768,
+      "outside_box_changed_pixels": 0,
+      "inside_box_changed_pixels": 883,
+      "input_sha256": "ea620164e8a3192c5e607a618478787b724bb8b16b7cd12d071b910b8483931f"
+    },
+    {
+      "scene": "textured",
+      "input_format": "PNG",
+      "input_bytes": 1859915,
+      "output_png_bytes": 1859900,
+      "ratio": 1.0,
+      "width": 1024,
+      "height": 768,
+      "outside_box_changed_pixels": 0,
+      "inside_box_changed_pixels": 883,
+      "input_sha256": "1095ad72c12d9b5dbccb125f89891218b3c5f2dec32375d97aca5cd92ade7536"
+    },
+    {
+      "scene": "textured",
+      "input_format": "JPEG",
+      "input_bytes": 225218,
+      "output_png_bytes": 1560060,
+      "ratio": 6.927,
+      "width": 1024,
+      "height": 768,
+      "outside_box_changed_pixels": 0,
+      "inside_box_changed_pixels": 883,
+      "input_sha256": "cde5baf60dae8228b8622a2762b517eda58282cfcccd1e209e43cd360ace9bf6"
+    }
+  ]
+}
